@@ -1,4 +1,4 @@
-name,iata,icao,lat,lon,country,alt,city
+Name,Iata,Icao,Lat,Lon,Country,Alt,City
 A Coruna Airport,LCG,LECO,43.302059,-8.37725,Spain,326,La Coruna
 Aachen Merzbruck Airport,AAH,EDKA,50.823051,6.186111,Germany,623,Aachen
 Aalborg Airport,AAL,EKYT,57.092781,9.849164,Denmark,10,Aalborg
