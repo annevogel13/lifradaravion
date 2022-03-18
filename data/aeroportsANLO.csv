@@ -138,7 +138,7 @@ Andenes Andoya Airport,ANX,ENAN,69.292503,16.144159,Norway,43,Andoya
 Anderson Regional Airport,AND,KAND,34.494579,-82.709297,United States,782,Andersen
 Andizhan Airport,AZN,UTFA,40.72773,72.294006,Uzbekistan,1515,
 Andros Town International Airport,ASD,MYAF,24.69828,-77.795601,Bahamas,5,Andros Town
-Anegada Auguste George Airport,NGD,TUPA,18.727394,-64.330055,"Virgin Islands, British",21,Anegada
+Anegada Auguste George Airport,NGD,TUPA,18.727394,-64.330055,Virgin Islands British,21,Anegada
 Angeles City Clark International Airport,CRK,RPLC,15.18598,120.560303,Philippines,484,Angeles City
 Angelholm Helsingborg Airport,AGH,ESTA,56.29607,12.84713,Sweden,68,Ängelholm
 Angers Loire Airport,ANE,LFJR,47.56028,-0.312222,France,194,Angers/Marcé
@@ -374,7 +374,7 @@ Beaver County Airport,BFP,KBVI,40.772499,-80.391403,United States,1253,Beaver Fa
 Beckley Raleigh County Memorial Airport,BKW,KBKW,37.779999,-81.120003,United States,2504,Beckley
 Bedford Hanscom Field,BED,KBED,42.469952,-71.289001,United States,132,Bedford
 Bedourie Airport,BEU,YBIE,-24.345043,139.459488,Australia,305,Bedourie
-Beef Island Terrance B. Lettsome Airport,EIS,TUPJ,18.44483,-64.5429,"Virgin Islands, British",16,Tortola
+Beef Island Terrance B. Lettsome Airport,EIS,TUPJ,18.44483,-64.5429,Virgin Islands British,16,Tortola
 Beida Al Abraq International Airport,LAQ,HLLQ,32.788612,21.964167,Libya,2157,Al Bayda'
 Beihai Fucheng Airport,BHY,ZGBH,21.53944,109.2938,China,83,Beihai
 Beijing Capital International Airport,PEK,ZBAA,40.084152,116.592735,China,116,Beijing
@@ -3885,9 +3885,9 @@ St. Athan Airport,DGX,EGSY,51.404106,-3.439235,United Kingdom,163,Fowlmere
 St. Augustine Northeast Florida Regional Airport,UST,KSGJ,29.959324,-81.337852,United States,5,St. Augustine Airport
 St. Catharines Niagara District Airport,YCM,CYSN,43.1917,-79.1717,Canada,321,Saint Catherines
 St. Cloud Regional Airport,STC,KSTC,45.546665,-94.059998,United States,1031,Saint Cloud
-St. Croix Henry E. Rohlsen Airport,STX,TISX,17.70155,-64.801697,"Virgin Islands, Us",74,St. Croix Island
+St. Croix Henry E. Rohlsen Airport,STX,TISX,17.70155,-64.801697,Virgin Islands US,74,St. Croix Island
 St. Gallen Altenrhein Airport,ACH,LSZR,47.485031,9.560775,Switzerland,1306,Altenrhein
-St. George Island Airport,STG,PAPB,56.599998,-169.552505,United States,-1,Point Barrow
+St. George Island Airport,STG,PAPB,56.575466,-169.664078,United States,108,Point Barrow
 St. George Regional Airport,SGU,KSGU,37.029999,-113.510002,United States,2884,Saint George
 St. Jean Gustaf III Airport,SBH,TFFJ,17.90444,-62.843601,Guadeloupe,49,Gustavia
 St. John's International Airport,YYT,CYYT,47.61861,-52.7519,Canada,461,St. John's
@@ -3902,7 +3902,7 @@ St. Petersburg Albert Whitted Airport,SPG,KSPG,27.76511,-82.6269,United States,7
 St. Petersburg Clearwater International Airport,PIE,KPIE,27.91,-82.687401,United States,11,St. Petersburg
 St. Petersburg Pulkovo Airport,LED,ULLI,59.800289,30.262501,Russia,78,St. Petersburg
 St. Theresa Point Airport,YST,CYST,53.84,-94.849998,Canada,773,St. Theresa Point
-St. Thomas Cyril E. King Airport,STT,TIST,18.337299,-64.973297,"Virgin Islands, Us",23,St. Thomas
+St. Thomas Cyril E. King Airport,STT,TIST,18.337299,-64.973297,Virgin Islands US,23,St. Thomas
 Stadtlohn Vreden Airport,QEV,EDLS,51.995277,6.843333,Germany,157,Stadtlohn
 Staniel Cay Airport,TYM,MYES,24.1691,-76.439102,Bahamas,5,Staniel Cay
 Stanley Airport,PSY,SFAL,-51.685699,-57.777599,Falkland Islands (Malvinas),75,Stanley
@@ -4368,7 +4368,7 @@ Vilnius International Airport,VNO,EYVI,54.63707,25.2878,Lithuania,646,Vilnius
 Vinh Airport,VII,VVVH,18.73,105.669998,Vietnam,23,Vinh
 Vinnytsia Havryshivka International Airport,VIN,UKWW,49.243427,28.6112,Ukraine,963,Vinnitsa
 Virac Airport,VRC,RPUV,13.583333,124.199997,Philippines,121,Virac
-Virgin Gorda Airport,VIJ,TUPW,18.446381,-64.427498,"Virgin Islands, British",14,Spanish Town
+Virgin Gorda Airport,VIJ,TUPW,18.446381,-64.427498,Virgin Islands British,14,Spanish Town
 Visakhapatnam Airport,VTZ,VOVZ,17.721161,83.22448,India,15,
 Visalia Municipal Airport,VIS,KVIS,36.319443,-119.39389,United States,294,Visalia
 Visby Airport,VBY,ESSV,57.662788,18.34621,Sweden,164,Visby
